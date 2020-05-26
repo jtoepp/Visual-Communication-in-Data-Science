@@ -12,10 +12,13 @@ Plots are vital to not only getting the point across but also to ensure that the
 Cluttered plots are like long sentences and paragraphs that never seem to end and just keep adding more information than is truly needed to convey the point almost as if they are trying to be more esoteric just for the sake of it.  Exhausted yet?  I sure am.  Let's take a look at this in plot form.
 
 ### ... or rather, the plot.
-![Plot depicting four weather variables as a line chart. They are all overlaid and make it difficult to understand the point of the plot.](Plots/Fig11.png)
+![A plot depicting four weather variables as a line chart.  They are all overlaid and make it difficult to understand the point of the plot.](Plots/Fig11.png)
+**Figure 1:**  A plot depicting four weather variables as a line chart.  They are all overlaid and make it difficult to understand the point of the plot.
 
 ### Is this cleaner, or just more complicated?
-![Plot depicting four variables as a scatter chart. Wind is depicted by the X-axis, Temperature is depicted by the Y-axis, Solar Radiation is depicted by the dot color, and Ozone is depicted by dot size.](Plots/Fig14.png)
+![A plot depicting four variables as a scatter chart.  Wind is depicted by the X-axis, Temperature is depicted by the Y-axis, Solar Radiation is depicted by the dot color, and Ozone is depicted by dot size.  It is less cluttered, but harder to compare the data.](Plots/Fig14.png)
+**Figure 2:**  A plot depicting four variables as a scatter chart.  Wind is depicted by the X-axis, Temperature is depicted by the Y-axis, Solar Radiation is depicted by the dot color, and Ozone is depicted by dot size.  It is less cluttered, but harder to compare the data.
 
 ### They aren't overlaid, but the point is so much easier to gather.
-![Plot depicting four variables as a scatter chart. Wind is depicted by the X-axis, Temperature is depicted by the Y-axis, Solar Radiation is depicted by the dot color, and Ozone is depicted by dot size.](Plots/Fig12.png)
+![A graphic depicting four variables as a scatter chart.  It makes use of the facet_wrap() function to depict each variable separately.  The y-axis is not equal across all four plots as to better depict the range and variation of the individual variable.  Take note of the title, the subtile, and the brief description that all aid in getting further information.](Plots/Fig12.png)
+**Figure 3:** A graphic depicting four variables as a scatter chart.  It makes use of the facet_wrap() function to depict each variable separately.  The y-axis is not equal across all four plots as to better depict the range and variation of the individual variable.  Take note of the title, the subtile, and the brief description that all aid in getting further information.
