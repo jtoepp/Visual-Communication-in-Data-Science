@@ -12,10 +12,10 @@ Plots are vital to not only getting the point across but also to ensure that the
 Cluttered plots are like long sentences and paragraphs that never seem to end and just keep adding more information than is truly needed to convey the point almost as if they are trying to be more esoteric just for the sake of it.  Exhausted yet?  I sure am.  Let's take a look at this in plot form.
 
 ### ... or rather, the plot.
-![Plot depicting four weather variables as a line chart. They are all overlaid and make it difficult to understand the point of the plot.](Week6/Plots/fig%2011-all%20vars%20line-scatter.png)
+![Plot depicting four weather variables as a line chart. They are all overlaid and make it difficult to understand the point of the plot.](Plots/fig%2011-all%20vars%20line-scatter.png)
 
 ### Is this cleaner, or just more complicated?
-![Plot depicting four variables as a scatter chart. Wind is depicted by the X-axis, Temperature is depicted by the Y-axis, Solar Radiation is depicted by the dot color, and Ozone is depicted by dot size.](Week6/Plots/fig%2014-all%20scatter.png)
+![Plot depicting four variables as a scatter chart. Wind is depicted by the X-axis, Temperature is depicted by the Y-axis, Solar Radiation is depicted by the dot color, and Ozone is depicted by dot size.](Plots/fig%2014-all%20scatter.png)
 
 ### They aren't overlaid, but the point is so much easier to gather.
-![Plot depicting four variables as a scatter chart. Wind is depicted by the X-axis, Temperature is depicted by the Y-axis, Solar Radiation is depicted by the dot color, and Ozone is depicted by dot size.](Week6/Plots/fig%2012-all%20vars%20facet_wrap.png)
+![Plot depicting four variables as a scatter chart. Wind is depicted by the X-axis, Temperature is depicted by the Y-axis, Solar Radiation is depicted by the dot color, and Ozone is depicted by dot size.](Plots/fig%2012-all%20vars%20facet_wrap.png)
